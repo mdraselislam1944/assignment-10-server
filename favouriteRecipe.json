@@ -1,0 +1,34 @@
+[
+    {
+        "recipeName":"Beef",
+        "image":"https://raw.githubusercontent.com/mdraselislam1944/Image/main/recipe1.jpg",
+        "description":"Beef is a popular ingredient in many different cuisines and is known for its rich, hearty flavor and versatility. There are many different cuts of beef that can be used in recipes, including ground beef, steaks, roasts, and more. Beef can be cooked using a variety of methods, such as grilling, roasting, stewing, or sautéing, and can be seasoned with a variety of herbs, spices, and sauces to enhance its flavor."
+    },
+    {
+        "recipeName":"Shrimp",
+        "image":"https://raw.githubusercontent.com/mdraselislam1944/Image/main/recipe2.jpg",
+        "description":"Shrimp is a popular ingredient in many different cuisines and is known for its rich, hearty flavor and versatility. There are many different cuts of beef that can be used in recipes, including ground beef, steaks, roasts, and more. Beef can be cooked using a variety of methods, such as grilling, roasting, stewing, or sautéing, and can be seasoned with a variety of herbs, spices, and sauces to enhance its flavor."
+    },
+    {
+        "recipeName":"Egg",
+        "image":"https://raw.githubusercontent.com/mdraselislam1944/Image/main/recipe3.jpg",
+        "description":"Egg is a popular ingredient in many different cuisines and is known for its rich, hearty flavor and versatility. There are many different cuts of beef that can be used in recipes, including ground beef, steaks, roasts, and more. Beef can be cooked using a variety of methods, such as grilling, roasting, stewing, or sautéing, and can be seasoned with a variety of herbs, spices, and sauces to enhance its flavor."
+    },
+    {
+        "recipeName":"Hilsa Fish",
+        "image":"https://raw.githubusercontent.com/mdraselislam1944/Image/main/recipe4.jpg",
+        "description":"Hilsa Fish is a popular ingredient in many different cuisines and is known for its rich, hearty flavor and versatility. There are many different cuts of beef that can be used in recipes, including ground beef, steaks, roasts, and more. Beef can be cooked using a variety of methods, such as grilling, roasting, stewing, or sautéing, and can be seasoned with a variety of herbs, spices, and sauces to enhance its flavor."
+    },
+    {
+        "recipeName":"Tomato Salad",
+        "image":"https://raw.githubusercontent.com/mdraselislam1944/Image/main/recipe5.jpg",
+        "description":"Tomato Salad is a popular ingredient in many different cuisines and is known for its rich, hearty flavor and versatility. There are many different cuts of beef that can be used in recipes, including ground beef, steaks, roasts, and more. Beef can be cooked using a variety of methods, such as grilling, roasting, stewing, or sautéing, and can be seasoned with a variety of herbs, spices, and sauces to enhance its flavor."
+    },
+    {
+        "recipeName":"Fuska",
+        "image":"https://raw.githubusercontent.com/mdraselislam1944/Image/main/recipe6.jpg",
+        "description":"Fuska is a popular ingredient in many different cuisines and is known for its rich, hearty flavor and versatility. There are many different cuts of beef that can be used in recipes, including ground beef, steaks, roasts, and more. Beef can be cooked using a variety of methods, such as grilling, roasting, stewing, or sautéing, and can be seasoned with a variety of herbs, spices, and sauces to enhance its flavor."
+    }
+    
+
+]

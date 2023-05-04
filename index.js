@@ -4,6 +4,7 @@ const cors=require('cors')
 const port=process.env.PORT||5000;
 const ChefRecipes=require('./Chef.json');
 const Recipes=require('./Recipe.json');
+const favoriteRecipe=require('./favouriteRecipe.json');
 app.use(cors());
 app.get('/',(req,res)=>{
 res.send('Chef is running');
@@ -12,6 +13,9 @@ res.send('Chef is running');
 app.get('/chefRecipes',(req,res)=>{
     res.send(ChefRecipes);
     console.log(ChefRecipes);
+})
+app.get('/favoriteRecipe',(req,res)=>{
+    res.send(favoriteRecipe);
 })
 
 
